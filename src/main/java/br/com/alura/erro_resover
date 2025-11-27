@@ -1,0 +1,10 @@
+https://github.com/Microsoft/vscode-java-test/blob/main/CONTRIBUTING.md#questions-and-feedback
+
+Faça um fork e clone o repositório:git clone git@github.com:Microsoft/vscode-java-test.git
+cd vscode-java-test
+Instale as dependências do Node:npm install
+Compile os módulos Java:npm run build-plugin
+Abra o diretório vscode-java-testno VS Code.
+Instale a extensão Eclipse PDE Support no seu VS Code.
+Abra um arquivo Java e aguarde até que 👍 apareça no canto inferior direito da barra de status.
+Observação: Às vezes, se você perceber que a navegação no código Java não está funcionando, recarregue o VS Code.
